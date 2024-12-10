@@ -24,7 +24,7 @@ public class EjercicioP23 {
         }
         else if (discriminante == 0){
             double solucion = ((-1) * b) / (2 * a);
-            System.out.println("Solucion: " + solucion);
+            System.out.println("Solucion unica: " + solucion);
         }
         else{
             System.out.println("No hay soluciones reales");
